@@ -1,9 +1,8 @@
 # grupitöö-2
 03-05/22 Portfoolio projekt - Hayao Miyazaki
-# Selveri soodukad
 
 ## Projekti eesmärk
-Leida kaupluse [Selver](https://www.selver.ee/) toiduainete tootevalikust kliendile sobivama hinnaga toode.
+Luua multikategelase/muinasjututegelase/tuntud inimese kohta käiv veebileht.
 
 ## Grupi liikmed:
 - Karl Erik _TA-21_
@@ -16,7 +15,9 @@ Leida kaupluse [Selver](https://www.selver.ee/) toiduainete tootevalikust kliend
 - Lelet _TA-20_
 
 ## Kommunikatsioon
-Suhtluskanalid: **Slack**
+Suhtluskanalid: 
+**Slack** 
+**Teams**
 
 ## Ülesanded
 **1.päev**
