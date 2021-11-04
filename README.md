@@ -60,7 +60,7 @@ Suhtluskanalid:
    * Rainis-Ross -
    * Kristjan -
    * Kevin -
-   * Airi -
+   * Airi - Ei
   
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -70,7 +70,7 @@ Suhtluskanalid:
    * Rainis-Ross -
    * Kristjan -
    * Kevin -
-   * Airi -
+   * Airi - tiimitöö
    
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
@@ -80,5 +80,5 @@ Suhtluskanalid:
    * Rainis-Ross -
    * Kristjan -
    * Kevin -
-   * Airi -
+   * Airi - HTML, CSS
    
