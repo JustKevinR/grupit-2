@@ -7,11 +7,11 @@ Luua multikategelase/muinasjututegelase/tuntud inimese kohta käiv veebileht.
 ## Grupi liikmed:
 - Karl Erik _TA-21_
 - Kristiina _TA-21_
-- Janar
-- Rainis-Ross
-- Kristjan
-- Kevin
-- Airi
+- Janar _TAK-20_
+- Rainis-Ross _TA-20_
+- Kristjan _TAK-21_
+- Kevin _TAK-19_
+- Airi _TAK-21_
 
 
 ## Kommunikatsioon
