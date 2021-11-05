@@ -65,7 +65,7 @@ Suhtluskanalid:
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * Karl Erik - Jäin oma ülessannetega rahule
    * Kristiina -
-   * Janar -
+   * Janar - Jäin rahule
    * Rainis-Ross -
    * Kristjan - Ei,mulle kõik sobib
    * Kevin -
@@ -75,7 +75,7 @@ Suhtluskanalid:
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * Karl Erik - Meeskonnatöö, suhtlemine, õigete küsimuste esitamine probleemi korral.
    * Kristiina - 
-   * Janar -
+   * Janar - Proleemide lahendamine, meeskonnatöö
    * Rainis-Ross -
    * Kristjan - Probleemi lahendamine, meeskonnatöö.
    * Kevin -
@@ -85,7 +85,7 @@ Suhtluskanalid:
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * Karl Erik -  õppisin midagi uut HTML, CSS, VSCODE ja GITHUBis.
    * Kristiina - 
-   * Janar -
+   * Janar - veidike HTML & CSS
    * Rainis-Ross -
    * Kristjan - Sain aru, kuidas töötab GitHub.
    * Kevin -
