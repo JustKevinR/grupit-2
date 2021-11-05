@@ -67,7 +67,7 @@ Suhtluskanalid:
    * Kristiina -
    * Janar -
    * Rainis-Ross -
-   * Kristjan -
+   * Kristjan - Ei,mulle kõik sobib
    * Kevin -
    * Airi - Ei
   
@@ -77,7 +77,7 @@ Suhtluskanalid:
    * Kristiina - 
    * Janar -
    * Rainis-Ross -
-   * Kristjan -
+   * Kristjan - Probleemi lahendamine, meeskonnatöö.
    * Kevin -
    * Airi - tiimitöö
    
@@ -87,7 +87,7 @@ Suhtluskanalid:
    * Kristiina - 
    * Janar -
    * Rainis-Ross -
-   * Kristjan -
+   * Kristjan - Sain aru, kuidas töötab GitHub.
    * Kevin -
    * Airi - HTML, CSS
    
