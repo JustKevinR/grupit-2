@@ -1,0 +1,79 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  background-image: url("../pildid/iPhone 8 - 6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 100%;
+  height: 100%;
+}
+
+.background-image {
+  width: 100%;
+  z-index: 0;
+  position: absolute;
+}
+
+.studio-logo {
+  width: 100%;
+  margin-top: 17px;
+}
+
+.back-button {
+  border-style: solid;
+  width: 40px;
+  border-radius: 20%;
+}
+
+.content {
+  /*width: 75%;*/
+  border-style: solid;
+  font-size: 20px;
+  margin: 0 15% 0% 15%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+  height: 480px;
+  background-color: white;
+  opacity: 0.5;
+  color: black;
+}
+
+.reference-button {
+  padding-left: 2rem;
+}
+
+.content-conteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bn5 {
+  padding: 0.4em 1.5em 0.6em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  bottom: -7px;
+  z-index: 0;
+  border-radius: 10px;
+}
+
+.bn6 {
+  padding: 0.4em 1.5em 0.6em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  bottom: -7px;
+  z-index: 0;
+  border-radius: 10px;
+}
