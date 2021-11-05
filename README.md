@@ -27,7 +27,7 @@ Suhtluskanalid:
 - Lähteülesande selgitamine
 - Omavahel ülesannete jagamine
 - Disainilahenduse loomine
--
+
 
 **2.päev**
 - Disainilahenduse ülevaatamine ja viimistlemine
