@@ -52,6 +52,7 @@ Suhtluskanalid:
 
 [Figma töölaud](https://www.figma.com/file/z2NGPkXPENtLaHSU3y64yU/Projekt?node-id=67%3A3)
 [Figma prototüüp](https://www.figma.com/proto/z2NGPkXPENtLaHSU3y64yU/Projekt?node-id=67%3A4&scaling=min-zoom&page-id=67%3A3&starting-point-node-id=67%3A4)
+[Zone live link](https://ta20tiirik.itmajakas.ee/grupit-2/index.html)
 
 ![IMG_20211103_155722](https://user-images.githubusercontent.com/91615781/140471497-b9c55b23-424b-406c-8c9b-fee5ac362498.jpg)
 ![IMG_20211103_150205](https://user-images.githubusercontent.com/91615781/140471554-82aedf22-2292-4bf1-914f-ebb3968bc334.jpg)
