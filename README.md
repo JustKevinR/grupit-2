@@ -48,7 +48,10 @@ Suhtluskanalid:
 - Prototüüp Figmas - Airi, Kristiina, Kristjan
 - Tööde juhendamine - Kevin ja Rainis-Ross
 - Tootearendus - Karl Erik, Airi, krisjan, kristiina, Janar (HTML ja CSS)
-- README.md - Karl Erik 
+- README.md - Karl Erik , Kristiina 
+
+![IMG_20211103_155722](https://user-images.githubusercontent.com/91615781/140471497-b9c55b23-424b-406c-8c9b-fee5ac362498.jpg)
+![IMG_20211103_150205](https://user-images.githubusercontent.com/91615781/140471554-82aedf22-2292-4bf1-914f-ebb3968bc334.jpg)
 
 
 ## Kasutatud tarkvara:
