@@ -50,6 +50,9 @@ Suhtluskanalid:
 - Tootearendus - Karl Erik, Airi, Kristjan, Kristiina, Janar (HTML ja CSS)
 - README.md - Karl Erik , Kristiina 
 
+[Figma töölaud](https://www.figma.com/file/z2NGPkXPENtLaHSU3y64yU/Projekt?node-id=67%3A3)
+[Figma prototüüp](https://www.figma.com/proto/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=35%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=35%3A27&show-proto-sidebar=1)
+
 ![IMG_20211103_155722](https://user-images.githubusercontent.com/91615781/140471497-b9c55b23-424b-406c-8c9b-fee5ac362498.jpg)
 ![IMG_20211103_150205](https://user-images.githubusercontent.com/91615781/140471554-82aedf22-2292-4bf1-914f-ebb3968bc334.jpg)
 
