@@ -1,4 +1,4 @@
-# grupitöö-2
+# GRUPITÖÖ - PORTFOOLIO
 03-05/22 Portfoolio projekt - Hayao Miyazaki
 
 ## Projekti eesmärk
@@ -23,38 +23,43 @@ Suhtluskanalid:
 **1.päev**
 - Meeskonnaga tutvumine
 - Suhtluskanalite loomine
+- Teema valimine
 - Lähteülesande selgitamine
 - Omavahel ülesannete jagamine
 - Disainilahenduse loomine
-- Kasutajaliidese loomine
+-
 
 **2.päev**
+- Disainilahenduse ülevaatamine ja viimistlemine
+- Koodi kirjutamine 
+
+**3.päev**
 - Töö hetkeseisu ülevaatamine
-- Pooleliolevate tööde lahendamine
+- Pooleliolevate tööde lõpetamine
 - Esitluseks valmistumine
 - Esitluse esitamine
 
+
 ## Tegevuste jaotus
 Ülesannete jagamisel lähtusime igaühe oskustest.
-- 
-- 
-- 
-- 
--
-- 
-- 
 
-
+- Peale meeskonnaga tutvumist panime töösse suhtluskanali - Karl Erik ja Kristiina  
+- Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
+- Prototüüp Figmas - Airi, Kristiina, Kristjan
+- Tööde juhendamine - Kevin ja Rainis-Ross
+- Tootearendus - Karl Erik, Airi, krisjan, kristiina, Janar (HTML ja CSS)
+- README.md - Karl Erik 
 
 
 ## Kasutatud tarkvara:
 * **Github** (projekti haldamine)
 * **Visual Studio Code** (programmeerimine)
+* **Kasutatud keeled** HTML + CSS
 * **Figma** (disain)
 
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   * Karl Erik -
+   * Karl Erik - Jäin oma ülessannetega rahule
    * Kristiina -
    * Janar -
    * Rainis-Ross -
@@ -64,7 +69,7 @@ Suhtluskanalid:
   
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - 
+   * Karl Erik - Meeskonnatöö, suhtlemine, õigete küsimuste esitamine probleemi korral.
    * Kristiina - 
    * Janar -
    * Rainis-Ross -
@@ -74,7 +79,7 @@ Suhtluskanalid:
    
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - 
+   * Karl Erik -  õppisin midagi uut HTML, CSS, VSCODE ja GITHUBis.
    * Kristiina - 
    * Janar -
    * Rainis-Ross -
