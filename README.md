@@ -55,6 +55,7 @@ Suhtluskanalid:
 
 
 ## Kasutatud tarkvara:
+* **Teams , Slack** Suhtluskanalid 
 * **Github** (projekti haldamine)
 * **Visual Studio Code** (programmeerimine)
 * **Kasutatud keeled** HTML + CSS
