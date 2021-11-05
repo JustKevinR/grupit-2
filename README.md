@@ -72,7 +72,7 @@ Suhtluskanalid:
    * Janar - Jäin rahule
    * Rainis-Ross -
    * Kristjan - Ei,mulle kõik sobib
-   * Kevin -
+   * Kevin - Jäin rahule
    * Airi - Ei, mulle sobis kõik mis tegema pidin.
   
 
@@ -82,7 +82,7 @@ Suhtluskanalid:
    * Janar - Proleemide lahendamine, meeskonnatöö
    * Rainis-Ross -
    * Kristjan - Probleemi lahendamine, meeskonnatöö.
-   * Kevin -
+   * Kevin - Meeskonnatöö
    * Airi - Meeskonnatöö
    
 
@@ -92,6 +92,6 @@ Suhtluskanalid:
    * Janar - veidike HTML & CSS
    * Rainis-Ross -
    * Kristjan - Sain aru, kuidas töötab GitHub.
-   * Kevin -
+   * Kevin - zone
    * Airi - HTML, CSS
    
