@@ -1,0 +1,355 @@
+.bn5 {
+    text-align: center;
+    text-decoration: none;
+    padding: 0.4em 1.5em 0.6em;
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    bottom: -7px;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
+  .bn5:before {
+    content: "";
+    background: linear-gradient(
+      45deg,
+      #ff0000,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00c8,
+      #ff0000
+    );
+    position: absolute;
+    top: -5px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(4px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowingbn5 20s linear infinite;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 8px;
+  }
+  
+  @keyframes glowingbn5 {
+    0% {
+      background-position: 0 0;
+    }
+    50% {
+      background-position: 400% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+  }
+  
+  .bn5:active {
+    color: #000;
+  }
+  
+  .bn5:active:after {
+    background: transparent;
+  }
+  
+  .bn5:hover:before {
+    opacity: 1;
+  }
+  
+  .bn5:after {
+    z-index: -1;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #191919;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg/800px-Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      height: 700px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+    }
+    .name {
+      color: black;
+      display: flex;
+      align-items: flex-end;
+      width: 100%;
+    }
+  
+    .name-text {
+      background: rgb(160, 173, 191);
+      border: 4px solid #000000;
+      box-sizing: border-box;
+      border-radius: 0px 70px 0px 0px;
+      font-size: 25px;
+      margin: 0;
+      width: 100%;
+      justify-content: center;
+    }
+    .person-info {
+      background: rgb(160, 173, 191);
+      border-left: 4px solid black;
+      border-right: 4px solid black;
+      padding: 20px;
+      border-bottom: 4px solid black;
+    }
+    .person-info div {
+      font-size: 25px;
+      margin: 0;
+      text-align: justify;
+      margin-top: 10px;
+    }
+    .janku,
+    .kumm {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  }
+  @media only screen and (max-width: 600px){
+    body{
+      margin: 0;
+      padding: 0;
+  
+    }
+  .container {
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg/800px-Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      height: 700px;
+      display: flex;
+    }
+    .name {
+      color: black;
+      display: flex;
+      align-items: flex-end;
+      width: 100%;
+      
+    }
+    .name-text{
+      background: rgb(160, 173, 191);
+      border: 4px solid #000000;
+      box-sizing: border-box;
+      border-radius: 0px 70px 0px 0px;
+      font-size: 25px;
+      margin: 0;
+      width: 100%;
+    }
+    .person-info{
+      background: rgb(160, 173, 191);
+      border-left: 4px solid black;
+      border-right: 4px solid black;
+      padding: 20px;
+      border-bottom: 4px solid black;
+      
+    }
+    .person-info div{
+      font-size: 25px;
+      margin: 0;
+      text-align: justify;
+      margin-top: 10px;
+      
+    }
+    .janku, .kumm {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  }
+  body {
+    background-image: url(/pildid/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.header {
+    text-align: center;
+}
+    
+
+.bn5 {
+    text-align: center;
+    text-decoration: none;
+    padding: 0.4em 1.5em 0.6em;
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    bottom: -7px;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
+  .bn5:before {
+    content: "";
+    background: linear-gradient(
+      45deg,
+      #ff0000,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00c8,
+      #ff0000
+    );
+    position: absolute;
+    top: -5px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(4px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowingbn5 20s linear infinite;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 8px;
+  }
+  
+  @keyframes glowingbn5 {
+    0% {
+      background-position: 0 0;
+    }
+    50% {
+      background-position: 400% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+  }
+  
+  .bn5:active {
+    color: #000;
+  }
+  
+  .bn5:active:after {
+    background: transparent;
+  }
+  
+  .bn5:hover:before {
+    opacity: 1;
+  }
+  
+  .bn5:after {
+    z-index: -1;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #191919;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  body {
+    padding: 0;
+    margin: 0;
+  
+    background-image: url("../pildid/iPhone 8 - 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    width: 100%;
+    height: 100%;
+  }
+  
+  .background-image {
+    width: 100%;
+    z-index: 0;
+    position: absolute;
+  }
+  
+  .studio-logo {
+    width: 100%;
+    margin-top: 17px;
+  }
+  
+  .back-button {
+    border-style: solid;
+    width: 40px;
+    border-radius: 20%;
+  }
+  
+  .content {
+    /*width: 75%;*/
+    border-style: solid;
+    font-size: 20px;
+    margin: 0 15% 0% 15%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    height: 480px;
+    background-color: white;
+    opacity: 0.5;
+    color: black;
+  }
+  
+  .reference-button {
+    padding-left: 2rem;
+  }
+  
+  .content-conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .bn5 {
+    padding: 0.4em 1.5em 0.6em;
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    bottom: -7px;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
+  .bn6 {
+    padding: 0.4em 1.5em 0.6em;
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    bottom: -7px;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
