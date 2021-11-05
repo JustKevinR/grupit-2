@@ -69,7 +69,7 @@ Suhtluskanalid:
    * Rainis-Ross -
    * Kristjan - Ei,mulle kõik sobib
    * Kevin -
-   * Airi - Ei
+   * Airi - Ei, mulle sobis kõik mis tegema pidin.
   
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -79,7 +79,7 @@ Suhtluskanalid:
    * Rainis-Ross -
    * Kristjan - Probleemi lahendamine, meeskonnatöö.
    * Kevin -
-   * Airi - tiimitöö
+   * Airi - Meeskonnatöö
    
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
