@@ -70,7 +70,7 @@ Suhtluskanalid:
    * Karl Erik - Jäin oma ülessannetega rahule
    * Kristiina - Ei, teise korra kohta sain just jõukohased ülesanded.
    * Janar - Jäin rahule
-   * Rainis-Ross -
+   * Rainis-Ross - Ma olin oma ülessandega rahul.
    * Kristjan - Ei,mulle kõik sobib
    * Kevin - Jäin rahule
    * Airi - Ei, mulle sobis kõik mis tegema pidin.
@@ -80,7 +80,7 @@ Suhtluskanalid:
    * Karl Erik - Meeskonnatöö, suhtlemine, õigete küsimuste esitamine probleemi korral.
    * Kristiina - Sain oskusi juurde projektipäevadelt maksimumi võtmiseks.
    * Janar - Proleemide lahendamine, meeskonnatöö
-   * Rainis-Ross -
+   * Rainis-Ross - Suhtlemine,Õpetamine.
    * Kristjan - Probleemi lahendamine, meeskonnatöö.
    * Kevin - Meeskonnatöö
    * Airi - Meeskonnatöö
@@ -90,7 +90,7 @@ Suhtluskanalid:
    * Karl Erik -  õppisin midagi uut HTML, CSS, VSCODE ja GITHUBis.
    * Kristiina - Figma(desktop), git, html, css.
    * Janar - veidike HTML & CSS
-   * Rainis-Ross -
+   * Rainis-Ross - Sain aru kudias töö lisada live keskkonda.
    * Kristjan - Sain aru, kuidas töötab GitHub.
    * Kevin - zone
    * Airi - HTML, CSS
