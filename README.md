@@ -47,7 +47,7 @@ Suhtluskanalid:
 - Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
 - Prototüüp Figmas - Airi, Kristiina, Kristjan
 - Tööde juhendamine - Kevin ja Rainis-Ross
-- Tootearendus - Karl Erik, Airi, Kristjan, kristiina, Janar (HTML ja CSS)
+- Tootearendus - Karl Erik, Airi, Kristjan, Kristiina, Janar (HTML ja CSS)
 - README.md - Karl Erik , Kristiina 
 
 ![IMG_20211103_155722](https://user-images.githubusercontent.com/91615781/140471497-b9c55b23-424b-406c-8c9b-fee5ac362498.jpg)
