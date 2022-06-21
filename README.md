@@ -1,3 +1,9 @@
+# Read this!!!!
+I know this website is not 100% ready but only reason why i mentioned it beacose to show that am able to
+help my team and give them new experience working as a team
+
+
+
 # GRUPITÖÖ - PORTFOOLIO
 03-05/22 Portfoolio projekt - Hayao Miyazaki
 
